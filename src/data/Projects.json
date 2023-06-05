@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Car Shop",
+    "description": "Project of a vehicle registration system for online commerce. The system is a REST API with CRUD functionality for multiple types of vehicles. Developed using the MSC architecture and aiming for object-oriented programming (OOP).",
+    "sourceCode": "https://github.com/vinicius-shk/CarShop",
+    "demoLink": "https://documenter.getpostman.com/view/25780292/2s935snMZ1"
+  },
+  {
+    "name": "Futebol Clube",
+    "description": "Project of a football championship management system. The project is Full-Stack, composed of a REST API and a front-end page built with React.js. The integration was done using Axios.",
+    "sourceCode": "https://github.com/vinicius-shk/Futebol-Clube",
+    "demoLink": ""
+  },
+  {
+    "name": "Solar System",
+    "description": "This project is a web application that provides information about our space missions to the solar system. The application is built with JavaScript and React, styled with vanilla CSS.",
+    "sourceCode": "https://github.com/vinicius-shk/project-solar-system",
+    "demoLink": "https://vinicius-shk-project-solar-system.vercel.app/"
+  },
+  {
+    "name": "Frontend Online Store",
+    "description": "This project is a online store that uses public API to fetch products data. The application is built with JavaScript and React, styled with SASS and Tailwind.",
+    "sourceCode": "https://github.com/vinicius-shk/Front-End-Online-Store",
+    "demoLink": "https://vinicius-shk-front-end-online-store.vercel.app/"
+  },
+  {
+    "name": "TrybeSmith",
+    "description": "Project of a sales system for handmade forged objects. The project is a REST API with JWT validation.",
+    "sourceCode": "https://github.com/vinicius-shk/Trybesmith",
+    "demoLink": "https://documenter.getpostman.com/view/25780292/2s935uFztt"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Certificate Name 1",
+    "org": "Issued Org name",
+    "issued": "month year",
+    "expiry": "",
+    "credentialId": "UC-xxxxxxxxx-xxxxx-xxxxxx-xxx-xxxxxxxxxxxxxx",
+    "credentialUrl": "https://support.udemy.com/hc/en-us/articles/229603868-How-to-Download-Your-Certificate-of-Completion-on-a-Browser-",
+    "url":"https://udemy-certificate.s3.amazonaws.com/image/<credentialId>.jpg"
+  },
+  {
+    "name": "Certificate Name 2",
+    "org": "Issued Org name",
+    "issued": "month year",
+    "expiry": "",
+    "credentialId": "UC-xxxxxxxxx-xxxxxxx-xxxxxx-xxx-xxxxxxxxxxxxxx",
+    "credentialUrl": "https://support.udemy.com/hc/en-us/articles/229603868-How-to-Download-Your-Certificate-of-Completion-on-a-Browser-",
+    "url":""
+  }
+]
