@@ -10,12 +10,13 @@
   ],
   "hardSkills": [
     "HTML5",
-    "CSS",
-    "Javascript",
-    "TypeScript",
+    "Javascript/TypeScript",
     "NodeJS",
     "MySQL",
     "MongoDB",
-    "Python"
+    "Python",
+    "ReactJS",
+    "CSS",
+    "Styled-Components"
   ]
 }
