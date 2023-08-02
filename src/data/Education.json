@@ -6,5 +6,22 @@
     "span": "2022 - 2023",
     "specialization": "FullStack Web Development",
     "score": "Finished - Approved"
+  },
+  {
+    "name": "Desenvolvedor.io",
+    "location": "São Paulo",
+    "course": "ASP.Net Core MVC",
+    "span": "2023 - 2023",
+    "specialization": "ASP.Net Core MVC Web Development",
+    "score": "Finished - Approved"
+  },
+  {
+    "name": "Desenvolvedor.io",
+    "location": "São Paulo",
+    "course": "ASP.Net Core WebAPI",
+    "span": "2023 - 2023",
+    "specialization": "ASP.Net Core WebAPI development",
+    "score": "Ongoing"
   }
+  
 ]

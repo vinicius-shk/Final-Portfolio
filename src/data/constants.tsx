@@ -5,6 +5,7 @@ import FutebolClube from "../assets/FutebolClube.png";
 import SolarSystem from "../assets/SolarSystem.png";
 import OnlineStore from "../assets/OnlineStore.png";
 import Trybesmith from "../assets/Trybesmith.png";
+import Marketplace from "../assets/Marketplace.png";
 interface Map {
   [key: string]: string | undefined;
 }
@@ -30,4 +31,5 @@ export const projectImage: Map = {
   "solar system": SolarSystem,
   "frontend online store": OnlineStore,
   "trybesmith": Trybesmith,
+  "Marketplace": Marketplace,
 };

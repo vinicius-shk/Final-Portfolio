@@ -1,5 +1,11 @@
 [
   {
+    "name": "Marketplace",
+    "description": "This project is an online web application in ASP.NET Core MVC framework for an marketplace where curstomers can find products and suppliers. This project includes user registration and validation via EntityFramework, SQL Server database and Model-View-Controller architecture. It has client and server-side validation.",
+    "sourceCode": "https://github.com/vinicius-shk/MarketplaceCompleto",
+    "demoLink": ""
+  },
+  {
     "name": "Car Shop",
     "description": "Project of a vehicle registration system for online commerce. The system is a REST API with CRUD functionality for multiple types of vehicles. Developed using the MSC architecture and aiming for object-oriented programming (OOP).",
     "sourceCode": "https://github.com/vinicius-shk/CarShop",
