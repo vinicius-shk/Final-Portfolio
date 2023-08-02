@@ -31,5 +31,5 @@ export const projectImage: Map = {
   "solar system": SolarSystem,
   "frontend online store": OnlineStore,
   "trybesmith": Trybesmith,
-  "Marketplace": Marketplace,
+  "marketplace": Marketplace,
 };
